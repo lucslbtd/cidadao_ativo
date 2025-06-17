@@ -1,0 +1,1 @@
+ /Users/lucasmartins/Documents/Desenvolvimento/cidadao_ativo/.dart_tool/flutter_build/e41cd75f5c59ccb1fbac9103f36a3eb8/native_assets.json: 
